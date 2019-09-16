@@ -1,0 +1,53 @@
+.cabezera{
+    overflow: hidden;
+	width: 100%; 
+}
+.barra{
+    width: 80%;
+    float: left;
+}
+.btn-agregar{
+    width: 20%;
+    float: left;
+}
+.img-agregar{
+    width: 90%;
+}
+/*.footer{
+    height: 100px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    margin:0;
+}*/
+
+.body{
+    height:400px;
+    max-height: 400px;
+    padding: 10px;
+    overflow: scroll;
+}
+
+.card-proyecto{
+    margin-bottom: 10px;
+    padding: 5%;
+    width:90% ;
+    height: 120px;
+    background-color: #3e9736;
+    overflow: hidden;
+    
+}
+
+.foto-proyecto{
+    margin: 2%;
+    width:100px;
+    height:100px;
+    float: left;
+    
+}
+.info{
+    //margin:10px;
+    padding-left: 20px;
+    float: left;
+    width: 50%;
+}

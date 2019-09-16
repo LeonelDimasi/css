@@ -1,0 +1,18 @@
+.contenedor{
+   // display: flex;
+}
+.nav{
+    height: 80px;
+    width: 100%;
+    padding-inline-start: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav-item{
+    width: 20%;
+    height: 80%;
+    display:inline-block;
+    //margin: 20px 20px 20px 20px;
+    margin:  4% 4% 4% 4%;
+}

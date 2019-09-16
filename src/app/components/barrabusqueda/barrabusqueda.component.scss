@@ -1,0 +1,22 @@
+
+.contenedor{
+    padding: 20px;
+}
+.barra{
+    outline: none;
+    height: 40px;
+    width: 100%;
+    border-color: rgb(48, 172, 36);
+    border-radius: 20px !important;
+    padding: 10px;
+    margin:0;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-size: 25px;
+}
+.barra:focus{
+    outline: none;
+    border-radius: 20px !important;
+    border-color:rgb(87, 87, 218)!important;
+    box-shadow: 3px 3px 5px rgb(26, 85, 153)
+  
+}
