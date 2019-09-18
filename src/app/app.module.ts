@@ -7,6 +7,7 @@ import { TareasComponent } from './components/tareas/tareas.component';
 import { BarrabusquedaComponent } from './components/barrabusqueda/barrabusqueda.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { LoginComponent } from './components/login/login.component';
+import { SubirfotoComponent } from './components/subirfoto/subirfoto.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { LoginComponent } from './components/login/login.component';
     TareasComponent,
     BarrabusquedaComponent,
     NavbarComponent,
-    LoginComponent
+    LoginComponent,
+    SubirfotoComponent
   ],
   imports: [
     BrowserModule,
